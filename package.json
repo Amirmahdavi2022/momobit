@@ -1,0 +1,16 @@
+{
+  "name": "momobit",
+  "version": "1.0.0",
+  "description": "Momobit - a friendly Telegram file toolbox bot",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "grammy": "^1.30.0"
+  }
+}
